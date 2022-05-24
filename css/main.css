@@ -1,0 +1,29 @@
+*{
+padding: 0;
+height: 0;
+box-sizing: border-box;
+font-family: impact;
+}
+/**Header**/
+#header{
+background-color:#2f2f2f ;
+height: 285px;
+width: 100%;
+}
+
+ #logo{
+    width: 120%;
+    height: 100%;
+ }
+
+
+ /**#numbers{
+    width: ;
+ }
+
+ #logo-text{
+
+ }**/
+
+
+/**Header End**/
