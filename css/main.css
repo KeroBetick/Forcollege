@@ -9,21 +9,22 @@
 /**Header**/
 header{
    background-color:#2f2f2f;
+   box-shadow: 0 0 10px 20px #424242;
 }
 #logo{
    width: 90%;
 }
-#logo-title{
+#logo_title{
    font-size: 36px;
    font-weight: 600;
    line-height: 30px;
    margin-bottom: 10px;
 }
-#logo-text{
+#logo_text{
    font-size: 22px;
    margin-left: 5%;
  }
-#header-text{
+#title{
    margin-top: 2%;
    margin-left: -2%;
 }
@@ -31,6 +32,15 @@ header{
    width: 50%;
    float: right;
    margin-top: 40%;
+}
+#under_adress1{
+   margin-left: 50%;
+}
+#under_adress1,
+#under_adress2{
+   width: 14%;
+   float: right;
+   margin-top: 2%;
 }
 .adress_text{
    margin-left:6%;
