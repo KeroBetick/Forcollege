@@ -9,7 +9,8 @@
 /**Header**/
 header{
    background-color:#2f2f2f;
-   box-shadow: 0 0 10px 20px #424242;
+   box-shadow: 0 0 0 20px #424242;
+   margin-bottom: 20px;
 }
 #logo{
    width: 90%;
