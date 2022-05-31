@@ -56,6 +56,15 @@ header{
 }
 /**Header End**/
 /**Main**/
-.accordion-body{
-   color: #2f2f2f;
+#nav{
+   background-color: #e0e0e0;
+   padding: 10px 16px 16px 28px;
+}
+#nav_text{
+   color:#2f2f2f;
+   text-align: center;
+   font-size: 26px;
+}
+#accordion{
+   box-shadow: 0 0 3px 1px #474747;
 }
